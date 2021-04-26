@@ -1,0 +1,53 @@
+body {
+    background-color: #50fa8b;
+    font-family: 'Lato';
+}
+
+.article {
+  position:absolute;
+  width: 65%;
+  padding: 5%;
+}
+
+.article h1 {
+  font-size: 3em;
+}
+
+
+
+.article li {
+  list-style-type: none;
+  font-size: 1.5em;
+  margin: 1%;
+}
+
+.article a {
+  color: black;
+}
+
+.article-download {
+  margin-top: 30%;
+  color: black;
+}
+
+.article-download:hover {
+  color: white;
+}
+
+.sidebar {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  font-size: 1.5em;
+}
+
+.sidebar a {
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  margin: 10px;
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
