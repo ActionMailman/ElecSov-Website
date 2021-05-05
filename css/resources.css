@@ -3,6 +3,10 @@ body {
     font-family: 'Lato';
 }
 
+h2 {
+    color: #5c5c5c;
+}
+
 .article {
   position:absolute;
   width: 65%;

@@ -17,6 +17,14 @@ body {
   font-size: 1.2em;
 }
 
+.article a {
+  color: black;
+}
+
+.article a:hover {
+  color: blue;
+}
+
 .sidebar {
   position: absolute;
   top: 15px;
@@ -31,6 +39,6 @@ body {
   color: black;
 }
 
-a:hover {
+.sidebar a:hover {
   color: white;
 }
